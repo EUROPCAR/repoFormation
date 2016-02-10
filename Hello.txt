@@ -1,3 +1,4 @@
+﻿Encore une grosse modif au début
 j'ajoute du texte au début du fichier
 dans le but de créer un premier gros hunk.
 Coucou fichier dans git
